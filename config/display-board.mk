@@ -12,4 +12,4 @@ TARGET_USES_COLOR_METADATA := true
 TARGET_USES_DRM_PP := true
 #Enable Wide color gamut support
 TARGET_HAS_WIDE_COLOR_DISPLAY := true
-
+TARGET_USES_QTI_MAPPER_2_0 := true
